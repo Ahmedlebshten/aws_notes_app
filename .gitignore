@@ -1,0 +1,6 @@
+/mariadb/
+/mariadb-backup/
+
+*.sql
+*.pem
+*.log
