@@ -4,3 +4,4 @@
 *.sql
 *.pem
 *.log
+.my.cnf
